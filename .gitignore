@@ -1,0 +1,13 @@
+tmp
+out
+target
+
+tools/bin
+tools/libs
+
+runtime/bin
+
+eclipse/bin
+
+compiler/bin
+compiler/libs
